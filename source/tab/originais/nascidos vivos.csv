@@ -1,0 +1,46 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Ano do nascimento
+Região Metropolitana - RIDE: 41010 Curitiba - PR
+Período:1994-2021
+"Ano do nascimento";"Nascim_p/resid.mãe"
+"1994";56370
+"1995";53490
+"1996";55396
+"1997";55626
+"1998";55455
+"1999";56804
+"2000";53955
+"2001";52202
+"2002";51555
+"2003";48669
+"2004";49029
+"2005";48576
+"2006";48194
+"2007";47321
+"2008";49125
+"2009";48535
+"2010";49622
+"2011";50090
+"2012";50981
+"2013";51166
+"2014";51711
+"2015";51833
+"2016";49089
+"2017";48518
+"2018";47388
+"2019";45969
+"2020";43768
+"2021";41543
+"Total";1411980
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 

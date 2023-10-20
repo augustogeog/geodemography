@@ -1,0 +1,30 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Idade da mãe e Ano do nascimento
+Região Metropolitana - RIDE: 41010 Curitiba - PR
+Período:1994-2021
+"Idade da mãe";"1994";"1995";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"Total"
+"10 a 14 anos";330;358;417;436;447;366;359;397;356;338;295;316;368;380;332;354;345;309;345;349;323;298;226;203;158;152;131;111;8799
+"15 a 19 anos";9997;10625;11518;11576;11833;11735;10950;10697;9891;9046;8943;8851;8770;8479;8379;8397;8327;8123;8254;8514;7907;7549;6556;5761;5265;4698;4147;3710;238498
+"20 a 24 anos";16064;15589;16120;16288;15810;16777;15521;14853;14904;13777;13787;13314;12755;12113;12439;12237;12408;12448;12460;12265;12344;12346;11313;11209;10937;10621;10275;9707;370681
+"25 a 29 anos";13651;13203;13412;13527;13488;13744;13153;12531;12648;11997;12126;12205;12151;12059;12750;12209;12415;12692;12487;12210;12503;12481;12149;11929;11759;11370;11055;10682;348586
+"30 a 34 anos";7944;7948;8440;8721;8705;8793;8954;8593;8506;8440;8607;8555;8769;8715;9284;9507;9994;10316;10939;10963;11435;11309;10973;11100;10725;10565;10061;9510;266371
+"35 a 39 anos";3134;3218;3477;3564;3801;4062;3961;4050;4204;4028;4215;4245;4262;4462;4716;4596;4913;4951;5218;5450;5872;6334;6329;6704;6871;6881;6319;6107;135944
+"40 a 44 anos";772;747;774;788;893;885;904;961;979;989;990;1027;1041;1046;1147;1188;1143;1180;1217;1342;1245;1431;1455;1512;1599;1597;1693;1618;32163
+"45 a 49 anos";69;75;82;58;73;78;62;54;53;44;52;45;73;58;69;43;73;68;59;72;70;78;81;96;68;85;84;92;1914
+"50 a 54 anos";1;6;6;3;5;4;1;2;-;-;-;1;3;3;3;4;1;2;2;1;12;7;4;4;5;-;2;3;85
+"55 a 59 anos";1;4;1;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;12
+"60 a 64 anos";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"Idade ignorada";4407;1717;1149;665;399;360;90;64;14;10;14;17;2;6;6;-;3;1;-;-;-;-;2;-;-;-;-;-;8926
+"Total";56370;53490;55396;55626;55455;56804;53955;52202;51555;48669;49029;48576;48194;47321;49125;48535;49622;50090;50981;51166;51711;51833;49089;48518;47388;45969;43768;41543;1411980
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
